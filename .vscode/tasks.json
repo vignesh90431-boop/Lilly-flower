@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Lily Bloom Animation",
+			"type": "shell",
+			"command": "C:\\Users\\lenovo\\Downloads\\lily flower\\.venv\\Scripts\\python.exe",
+			"args": [
+				"lily_bloom_slowmo.py"
+			],
+			"isBackground": false
+		}
+	]
+}
